@@ -3,12 +3,6 @@
 - 🌱 I’m currently learning python and java 
 - 💞️ I’m looking to collaborate on nothing
 
-███╗  ██╗██╗    ██╗ ██████╗
-████╗ ██║██║    ██║██╔═══██╗
-██╔██╗██║██║ █╗ ██║██║   ██║
-██║╚████║██║███╗██║██║   ██║
-██║ ╚███║╚███╔███╔╝╚██████╔╝
-╚═╝  ╚══╝ ╚══╝╚══╝  ╚═════╝
 
 <!---
 JeronimoSuperChulo/JeronimoSuperChulo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
