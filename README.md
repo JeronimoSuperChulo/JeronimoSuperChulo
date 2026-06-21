@@ -1,8 +1,14 @@
 - 👋 Hi, I’m @JeronimoSuperChulo
 - 👀 I’m interested in minecraft and retro computing
-- 🌱 I’m currently learning java and php 
+- 🌱 I’m currently learning python and java 
 - 💞️ I’m looking to collaborate on nothing
-- 📫 How to reach me purocacuayecuk@aol.com
+
+███╗  ██╗██╗    ██╗ ██████╗
+████╗ ██║██║    ██║██╔═══██╗
+██╔██╗██║██║ █╗ ██║██║   ██║
+██║╚████║██║███╗██║██║   ██║
+██║ ╚███║╚███╔███╔╝╚██████╔╝
+╚═╝  ╚══╝ ╚══╝╚══╝  ╚═════╝
 
 <!---
 JeronimoSuperChulo/JeronimoSuperChulo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
